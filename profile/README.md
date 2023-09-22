@@ -29,7 +29,7 @@ At PayPal, we support different technologies through our SDKs and our REST & Gra
 
 - The PayPal SDKs can be found in the [PayPal GitHub](https://github.com/paypal) organization.
 
-- Sample applications can be found here, in the [PayPal Developer GitHub](https://github.com/paypaldev) organization.
+- Sample applications can be found here, in the [PayPal Developer GitHub](https://github.com/paypal-examples) organization.
 
 # 🤠 Developer Community
 
