@@ -17,12 +17,29 @@
   <hr />
 </div>
 
-# PayPal-Repo-Template
-This is a sample repo to use as a template when we are creating new repos under the PayPal org.
+# 👋 Hello PayPal Developers!
 
-## PayPal Developer Community
+PayPal is a payment processing product that helps you process payments for your mobile and web applications. We provide a fast and easy way to handle online payments, whether it's for a digital media property or an online merchant of any kind in over 100 countries.
 
-The PayPal Developer community helps you build your career, while also improving PayPal products and the developer experience. You’ll be able to contribute code and documentation, meet new people and learn from the open source community.
+At PayPal, we support different technologies through our SDKs and our REST & GraphQL API endpoints.
+
+# 🖥️ Sample Apps
+
+- The PayPal SDKs can be found in the [PayPal GitHub](https://github.com/paypal) organization.
+
+- Sample applications can be found here, in the [PayPal Developer GitHub](https://github.com/paypaldev) organization.
+
+# 🤠 Developer Community
+
+Join our developoer community and stay up to date with the latest news from the PayPal team!
+
+- [Follow us on Twitter](https://twitter.com/paypaldev).
+- [PayPal Blog](https://dev.to/paypaldeveloper).
+- [Subscribe to the YouTube Channel](https://www.youtube.com/channel/UCvNxReTAQudFN4RQth9r_6A/videos).
+
+# 💼 Careers (We are hiring!)
+
+We believe now is the time to reimagine money and democratize financial services, so that managing and moving money is safe and accessible for everyone. Want to learn more? Visit [PayPal Careers](https://careers.pypl.com/home/) to learn more.
 
 * Website: [developer.paypal.com](https://developer.paypal.com)
 * Twitter: [@paypaldev](https://twitter.com/paypaldev)
